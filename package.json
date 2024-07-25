@@ -35,7 +35,7 @@
     "url": "https://github.com/tranphuquy19/fcm-nestjs"
   },
   "peerDependencies": {
-    "@nestjs/common": "^9.0.5"
+    "@nestjs/common": "^10.2.2"
   },
   "dependencies": {
     "firebase-admin": "^11.0.0",
@@ -43,7 +43,7 @@
     "rxjs": "^7.3.0"
   },
   "devDependencies": {
-    "@nestjs/common": "9.0.5",
+    "@nestjs/common": "10.2.2",
     "@nestjs/core": "^9.0.5",
     "@nestjs/platform-express": "^9.0.5",
     "@nestjs/testing": "9.0.5",
